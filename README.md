@@ -1,2 +1,1 @@
-# MG
-My Repository.
+Auther Shubh Jaiswal
